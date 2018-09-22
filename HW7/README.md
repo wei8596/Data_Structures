@@ -2,5 +2,5 @@
 * insertion sort
 * merge sort
 * quick sort
-* <cstdlib> - qsort
-* <algorithm> - sort
+* \<cstdlib\> - qsort
+* \<algorithm\> - sort
